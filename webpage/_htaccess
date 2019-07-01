@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteRule ^api/gamelist api/api.php/gamelist
+RewriteRule ^api/gamereviews/id/([0-9]+) api/api.php/gamereview/id/$1

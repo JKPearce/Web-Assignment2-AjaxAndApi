@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<game_reviews>
+	<games>
+		<game id="1">
+			<name>Overwatch</name>
+			<image_url>images/overwatch.jpg</image_url>
+		</game>
+		<game id="2">
+			<name>World Of Warcraft</name>
+			<image_url>images/wow.jpg</image_url>
+		</game>
+		<game id="3">
+			<name>Heroes Of The Storm</name>
+			<image_url>images/hots.jpg</image_url>
+		</game>
+		<game id="4">
+			<name>Hearthstone</name>
+			<image_url>images/hearthstone.jpg</image_url>
+		</game>
+	</games>
+	<reviews>
+		<review id = "1">
+			<game_id>1</game_id>
+			<reviewer_name>Jaydon</reviewer_name>
+			<review>This is a very fun game.</review>
+			<rating>5</rating>
+		</review>
+		<review id = "2">
+			<game_id>1</game_id>
+			<reviewer_name>Matthew</reviewer_name>
+			<review>HotS is better.</review>
+			<rating>3</rating>
+		</review>
+		<review id = "3">
+			<game_id>2</game_id>
+			<reviewer_name>Jaydon</reviewer_name>
+			<review>Lots of fun!</review>
+			<rating>5</rating>
+		</review>
+		<review id = "4">
+			<game_id>2</game_id>
+			<reviewer_name>Matthew</reviewer_name>
+			<review>This game is old.</review>
+			<rating>3</rating>
+		</review>
+		<review id = "5">
+			<game_id>3</game_id>
+			<reviewer_name>Matthew</reviewer_name>
+			<review>Best game in the world.</review>
+			<rating>5</rating>
+		</review>
+		<review id = "6">
+			<game_id>3</game_id>
+			<reviewer_name>Jaydon</reviewer_name>
+			<review>Overwatch is better.</review>
+			<rating>3</rating>
+		</review>
+		<review id = "7">
+			<game_id>4</game_id>
+			<reviewer_name>Jaydon</reviewer_name>
+			<review>I fell asleep writing my other review.</review>
+			<rating>2</rating>
+		</review>
+		<review id = "8">
+			<game_id>4</game_id>
+			<reviewer_name>Matthew</reviewer_name>
+			<review>Good mobile game to play when out and about.</review>
+			<rating>4</rating>
+		</review>
+	</reviews>
+</game_reviews>
+	

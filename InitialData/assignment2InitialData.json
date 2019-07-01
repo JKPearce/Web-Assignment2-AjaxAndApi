@@ -1,0 +1,85 @@
+{
+	"game_reviews" : {
+		"games" : [
+		{
+			"id" : 1,
+			"name" : "Overwatch",
+			"image_url" : "images/overwatch.jpg"
+		},
+		{
+			"id" : 2,
+			"name" : "World of Warcraft",
+			"image_url" : "images/wow.jpg"
+		},
+		{ 
+			"id" : 3,
+			"name" : "Heroes of the Storm",
+			"image_url" : "images/hots.jpg"
+		},
+		{
+			"id" : 4,
+			"name" : "Hearthstone",
+			"image_url" : "images/hearthstone.jpg"
+		}
+
+	],
+		"reviews" : [
+			{
+				"id" : 1,
+				"game_id" : 1,
+				"reviewer_name" : "Jaydon",
+				"review" : "This is a very fun game.",
+				"rating" : 5
+			},
+			{
+				"id" : 2,
+				"game_id" : 1,
+				"reviewer_name" : "Matthew",
+				"review" : "HotS is better.",
+				"rating" : 3
+			},
+			{
+				"id" : 3,
+				"game_id" : 2,
+				"reviewer_name" : "Jaydon",
+				"review" : "Lots of fun!",
+				"rating" : 5
+			},
+			{
+				"id" : 4,
+				"game_id" : 2,
+				"reviewer_name" : "Matthew",
+				"review" : "This game is old.",
+				"rating" : 3
+			},
+			{
+				"id" : 5,
+				"game_id" : 3,
+				"reviewer_name" : "Matthew",
+				"review" : "Best game in the world.",
+				"rating" : 5
+			},
+			{
+				"id" : 6,
+				"game_id" : 3,
+				"reviewer_name" : "Jaydon",
+				"review" : "Overwatch is better.",
+				"rating" : 3
+			},
+			{
+				"id" : 7,
+				"game_id" : 4,
+				"reviewer_name" : "Jaydon",
+				"review" : "I fell asleep writing my other review",
+				"rating" : 2
+			},
+			{
+				"id" : 8,
+				"game_id" : 4,
+				"reviewer_name" : "Matthew",
+				"review" : "Good mobile game to play when out and about.",
+				"rating" : 4
+			}
+		]
+	}
+}
